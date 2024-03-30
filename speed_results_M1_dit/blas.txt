@@ -1,0 +1,4 @@
+SGEMV 768 x 768  *  768 x 1 (row major order, A not transposed): 37748
+SGEMV 768 x 768  *  768 x 1 (row major order, A transposed): 38647
+SGEMV 768 x 768  *  768 x 1 (column major order, A not transposed): 38597
+SGEMV 768 x 768  *  768 x 1 (column major order, A transposed): 37738

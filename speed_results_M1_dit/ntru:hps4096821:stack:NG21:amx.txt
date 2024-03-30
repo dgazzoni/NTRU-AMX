@@ -1,0 +1,6 @@
+crypto_kem_keypair: 608741
+crypto_kem_enc: 27950
+crypto_kem_dec: 41121
+owcpa_keypair: 618373
+owcpa_enc: 8050
+owcpa_dec: 31175

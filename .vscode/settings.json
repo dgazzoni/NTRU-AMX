@@ -1,0 +1,12 @@
+{
+    "saveAndRunExt": {
+        "commands": [
+            {
+                "match": "(.*\\.c|.*\\.h|.*\\.cpp)",
+                "isAsync": true,
+                "isShellCommand": false,
+                "cmd": "workbench.action.tasks.test"
+            },
+        ],
+    },
+}

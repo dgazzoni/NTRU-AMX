@@ -1,0 +1,4 @@
+amx_polymodmul 509 x 509: 2117
+amx_polymodmul 677 x 677: 3417
+amx_polymodmul 821 x 821: 4497
+amx_polymodmul 701 x 701: 3456

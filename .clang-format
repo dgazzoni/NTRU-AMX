@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Custom
+BraceWrapping:
+    BeforeElse: true
+    BeforeWhile: true
+ColumnLimit: 120
+DerivePointerAlignment: false
+PointerAlignment: Right
